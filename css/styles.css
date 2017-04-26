@@ -1,3 +1,11 @@
 #letter {
   display: none;
 }
+
+.well {
+  margin: 30px;
+  padding: 5px;
+}
+p {
+  background-image: url(https://static.brusheezy.com/system/resources/previews/000/018/482/non_2x/notebook-paper-texture-photoshop-textures.jpg);
+}
